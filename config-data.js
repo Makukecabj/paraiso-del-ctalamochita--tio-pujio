@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Paraiso del Ctalamochita- Tio Pujio",
+    "short_name": "paraiso-del-ctalamochita--tio-pujio",
+    "tagline": "Paraiso del Ctalamochita- Tio Pujio - La Pampa",
+    "description": "Tu base en Paraiso del Ctalamochita- Tio Pujio para explorar La Pampa.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "La Pampa · Santa Rosa 25",
+    "title_line1": "Conocé todo desde",
+    "title_em": "paraiso-del-ctalamochita--tio-pujio",
+    "title_line2": "",
+    "subtitle": "Tu refugio en La Pampa después de recorrer todo el día."
+  },
+  "location": {
+    "address": "Santa Rosa 25, Tío Pujio, La Pampa",
+    "district": "La Pampa",
+    "city": "La Pampa",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Santa Rosa 25, Tío Pujio, La Pampa, La Pampa",
+    "map_embed": "https://maps.google.com/maps?q=Santa+Rosa+25%2C+T%C3%ADo+Pujio%2C+La+Pampa%2C+La+Pampa&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "La Pampa. El mejor lugar para quedarte en la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493534129766",
+    "phone": "+5493534129766",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Paraiso+del+Ctalamochita-+Tio+Pujio/data=!4m10!3m9!1s0x95c2cd07954c67fd:0xcf549a02d38c685b!5m2!4m1!1i2!8m2!3d-36.6208918!4d-64.2913535!16s%2Fg%2F11sq_cr7s_!19sChIJ_WdMlQfNwpURW2iM0wKaVM8?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Paraiso+del+Ctalamochita-+Tio+Pujio/data=!4m10!3m9!1s0x95c2cd07954c67fd:0xcf549a02d38c685b!5m2!4m1!1i2!8m2!3d-36.6208918!4d-64.2913535!16s%2Fg%2F11sq_cr7s_!19sChIJ_WdMlQfNwpURW2iM0wKaVM8?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Nuestra historia",
+    "title": "La historia de Paraiso del Ctalamochita- Tio Pujio.",
+    "paragraphs": [
+      "Paraiso del Ctalamochita- Tio Pujio está ubicado en La Pampa, en una zona tranquila y céntrica. Contamos con habitaciones limpias y equipadas, espacios comunes amplios, pileta y parrilla. Un lugar ideal para descansar después de recorrer."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "WhatsApp rápido para todo",
+    "Precio real, sin letras chiquitas",
+    "Ya recibimos viajeros de todo el mundo"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Tu cama te espera",
+      "description": "Descansá que mañana hay cosas por conocer.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Redes sin drama",
+      "description": "Subite todo, mandá ubicación, estate conectado.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Cerca de todo",
+      "description": "La mejor ubicación para recorrer sin gastar de más.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Camila D.",
+      "rating": 5,
+      "text": "Viajaba sola y me sentí súper segura. Conocí gente linda y disfruté cada momento."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Se puede ir con mascota?",
+      "answer": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+    },
+    {
+      "question": "¿Aceptan mascotas?",
+      "answer": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Paraiso del Ctalamochita- Tio Pujio",
+    "copyright": "© 2026 Paraiso del Ctalamochita- Tio Pujio. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Paraiso del Ctalamochita- Tio Pujio",
+        "short_name": "paraiso-del-ctalamochita--tio-pujio",
+        "tagline": "Paraiso del Ctalamochita- Tio Pujio - Accommodation",
+        "description": "Your base at Paraiso del Ctalamochita- Tio Pujio to explore La Pampa.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "La Pampa · Santa Rosa 25",
+        "title_line1": "Experience",
+        "title_em": "paraiso-del-ctalamochita--tio-pujio",
+        "title_line2": "from here",
+        "subtitle": "A chill place to rest in La Pampa."
+      },
+      "about": {
+        "eyebrow": "Meet the team",
+        "title": "Discover Paraiso del Ctalamochita- Tio Pujio.",
+        "paragraphs": [
+          "Come to Paraiso del Ctalamochita- Tio Pujio and discover La Pampa from a cool hostel. We have pool, BBQ, equipped kitchen, WiFi and everything you need to feel at home."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "La Pampa. Steps away from everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Updated availability in real time",
+        "No Booking.com commissions",
+        "We help you plan your trip"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        }
+      ],
+      "footer": {
+        "description": "Paraiso del Ctalamochita- Tio Pujio",
+        "copyright": "© 2026 Paraiso del Ctalamochita- Tio Pujio. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Paraiso del Ctalamochita- Tio Pujio",
+        "description": "Paraiso del Ctalamochita- Tio Pujio, tu alojamiento ideal en La Pampa.",
+        "url": "",
+        "telephone": "+5493534129766",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Paraiso+del+Ctalamochita-+Tio+Pujio/data=!4m10!3m9!1s0x95c2cd07954c67fd:0xcf549a02d38c685b!5m2!4m1!1i2!8m2!3d-36.6208918!4d-64.2913535!16s%2Fg%2F11sq_cr7s_!19sChIJ_WdMlQfNwpURW2iM0wKaVM8?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Santa Rosa 25, Tío Pujio, La Pampa",
+          "addressLocality": "La Pampa",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Tu cama te espera",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Redes sin drama",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Cerca de todo",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede ir con mascota?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Aceptan mascotas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
